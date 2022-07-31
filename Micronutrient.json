@@ -1,0 +1,51 @@
+[
+  {
+    "sku": "Zinc22mg",
+    "count": 1,
+    "available": "15%",
+    "type": "zinc",
+    "weight": "22mg"
+  },
+  {
+    "sku": "Zinc30mg",
+    "count": 1,
+    "available": "10%",
+    "type": "zinc",
+    "weight": "30mg"
+  },
+  {
+    "sku": "Zinc50mg",
+    "count": 1,
+    "available": "10%",
+    "type": "zinc",
+    "weight": "50mg"
+  },
+  {
+    "sku": "D3-1000iu",
+    "count": 1,
+    "available": "78%",
+    "type": "d3",
+    "weight": "1000iu"
+  },
+  {
+    "sku": "D3-3000iu",
+    "count": 1,
+    "available": "78%",
+    "type": "d3",
+    "weight": "3000iu"
+  },
+  {
+    "sku": "Omega-3-750mg",
+    "count": 1,
+    "available": "100%",
+    "type": "omega3",
+    "weight": "750mg"
+  },
+  {
+    "sku": "Omega-3-1400mg",
+    "count": 1,
+    "available": "100%",
+    "type": "omega3",
+    "weight": "1400mg"
+  }
+]
